@@ -20,6 +20,6 @@ public class HelloWorld {
 
     }
     public static void show(String username){
-        System.out.println("Hello World from me                  from desktop,"+ username);
+        System.out.println("Hello World from me from desktop,"+ username);
     }
 }
